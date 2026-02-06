@@ -6,6 +6,7 @@ The purpose of this assignment is to practice **real-world HTML and CSS**, focus
 
 ---
 ### Live Preview
+[Cursor-Clone](https://iamharshitsharmaa.github.io/Cursor-Clone-Assignment-ChaiCode/)
 
 
 ---
